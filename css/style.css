@@ -1,0 +1,54 @@
+.font {
+  font-family: "Poppins", sans-serif;
+  font-size: 15px;
+  font-weight: 200, 400, 600;
+}
+.bold {
+  font-weight: bolder;
+}
+
+.middle {
+  text-align: center;
+  padding-top: 3rem;
+}
+
+.box {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.supervisor {
+  padding-right: 2em;
+  padding-left: 2em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  width: 25vw;
+}
+
+.top {
+  margin-top: 2rem;
+}
+.blue {
+  border-top: solid 5px hsl(180, 62%, 55%);
+}
+.red {
+  border-top: solid 5px hsl(0, 78%, 62%);
+}
+
+.orange {
+  border-top: solid 5px hsl(34, 97%, 64%);
+}
+
+.dark {
+  border-top: solid 5px hsl(212, 86%, 64%);
+}
+.reverse {
+  display: flex;
+  justify-content: end;
+  flex-direction: row-reverse;
+}

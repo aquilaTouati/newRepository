@@ -1,0 +1,79 @@
+.font {
+  font-family: "Spartan", sans-serif;
+}
+.intro {
+  width: 30vw;
+  padding-top: 5rem;
+  margin-left: 5rem;
+}
+
+.blocks {
+  background-color: hsl(300, 43%, 22%);
+  width: 25vw;
+  color: hsl(0, 0%, 100%);
+  border-radius: 0.5em;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  margin-bottom: 2rem;
+}
+.line {
+  margin-left: 1rem;
+}
+
+.title {
+  margin-left: 1rem;
+  margin-right: 3rem;
+}
+
+.pic {
+  border-radius: 50%;
+}
+.profile {
+  display: flex;
+}
+
+.pink {
+  color: hsl(333, 80%, 67%);
+}
+
+.cards {
+  display: flex;
+  justify-content: space-around;
+}
+.all {
+  display: flex;
+}
+.spans {
+  margin-top: 5rem;
+}
+
+.span {
+  display: flex;
+  flex-direction: row-reverse;
+  background-color: hsl(300, 24%, 96%);
+  padding-block: 1rem;
+  border-radius: 20%;
+}
+
+.star {
+  margin-left: 0.5rem;
+}
+
+.review {
+  margin-left: 1rem;
+}
+.report {
+  margin-left: 1rem;
+}
+.first {
+  margin-left: 15rem;
+}
+.second {
+  margin-left: 20rem;
+}
+
+.third {
+  margin-left: 25rem;
+}

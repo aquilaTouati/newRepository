@@ -1,0 +1,55 @@
+.font {
+  font-family: "Kumbh Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 400, 700;
+}
+
+.name {
+  color: hsl(229, 23%, 23%);
+}
+
+.number {
+  color: hsl(227, 10%, 46%);
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+  padding-top: 10em;
+}
+
+.image {
+  border-radius: 50%;
+  margin-top: -3rem;
+  border: solid white 4px;
+}
+.box {
+  box-shadow: rgba(149, 157, 165, 0.2) 10px 10px 30px;
+  border-radius: 8%;
+  text-align: center;
+  overflow: hidden;
+  padding-bottom: 2em;
+}
+
+.second {
+  margin: 2em;
+}
+
+.toppic {
+  overflow: hidden;
+}
+
+.line {
+  border-top: hsl(229, 23%, 23%);
+}
+.color {
+  color: hsl(227, 10%, 46%);
+}
+.margin {
+  margin: 2rem;
+}
+
+.last {
+  font-size: 15px;
+  font-family: "Kumbh Sans", sans-serif;
+}
