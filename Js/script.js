@@ -425,12 +425,49 @@
 
 
 
-function filterArray(arr) {
-    var newArray = [];
-    for (var i = 0; i < arr.length; i++);
-    if (typeof filterArray == number) {
+// function filterArray(arr) {
+//     var newArray = [];
+//     for (var i = 0; i < arr.length; i++);
+//     if (typeof filterArray == number) {
     
-    }
-   return newArray
+//     }
+//    return newArray
 
-}
+// }
+
+
+
+// function getRealFloor(n) {
+//     var n=[0,1,2,3,4,5,6,7,8,9,10,11,12,14,15,16];
+//     }
+//     if (n >0 && n<13){
+//       return n-1
+//     }  
+//     if(n >=13){
+//      return n-2
+//     }
+    
+//     return n
+//     }
+
+
+
+
+    // var sentence = prompt ("write a sentence");
+    // var wordCount=0;
+    // var letter=[]
+    // var vowels=[]
+    
+
+    // for (var i = 0; i < wordCount.length(); i++) {
+        
+    //       if (wordCount.charAt(i) == letter) {
+    //         return wordCount++;
+    //       }
+    //     }
+
+    // for (char letter= 'a'; letter <= 'z'; letter++) {
+
+
+
+
